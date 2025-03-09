@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Hossam Ashtawy"
+  name   : "Optimol AI"
   avatar : "/assets/images/hossam3_small.jpg"
   bio    : "AI/ML + Drug Discovery + Software"
   links:
